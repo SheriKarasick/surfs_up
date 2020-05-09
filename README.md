@@ -53,6 +53,11 @@ The Pacific Station of the International Ocean Observing System maintains real-t
 * The months of June and December were selected for this analysis, however wind data across a twelve month period shows that wind patterns vary greatly across the islands depending on the trade winds.  As two or three locations that appear more likely emerge, I would recommend evaluating wind patterns through the year so that slow seasons for surfing could be identified and alternative activities that are not wind dependent could be offered to potential customers (paddle boarding, kayaking, etc).
 * With two or three sites in mind, I would examine the availability of transportation from major airports as a variable in location of the surf shop.  While winds might be optimal on some windward headlands, travel time from Honolulu airport to the surf shop may limit the number of travelers who will access the beach and utilize the services.  Tourist visitor data from hotels or local businesses could significantly augment the analysis.
 
+## Tools used to complete this analysis
+* [SQLLite Hawaiian Data File](hawaii.sqlite)
+* SQLAlchemy
+* [Jupyter Notebook for Climate Analysis of Weather Data](climate_analysis.ipynb)
+
 ## References
-(1) The Western Regional Climate Center. **Climate of Hawaii**. Retrieved from https://wrcc.dri.edu/narratives/HAWAII.htm
+(1) The Western Regional Climate Center. **Climate of Hawaii**. Retrieved from https://wrcc.dri.edu/narratives/HAWAII.htm <br />
 (2) The Pacific International Ocean Observing System Dataset.  Retrieved from https://www.pacioos.hawaii.edu/weather/model-wind-hawaii/
