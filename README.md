@@ -13,13 +13,14 @@ On the island of Oahu, there are 9 active monitoring stations that continuously 
 
 | Variable  | June | December
 | ------------- | ------------- | ----------- |
-| Air Temperature: Minimim  | 64 F  | 56 F |
-| Air Temperature: Maximum  | 85 F  | 83 F |
-| Air Temperature:Average  | 75 F  | 71 F |
+| Air Temperature: Minimim (in)  | 64 F  | 56 F |
+| Air Temperature: Maximum (in)  | 85 F  | 83 F |
+| Air Temperature:Average (in)  | 75 F  | 71 F |
+| Air Temperature:Std Dev  | 3.26  | 3.75 |
 | Air Temperature  | Content Cell  | ------------ |
-| Precipitation: Minimum  | ------------ |  ------------ |
-| Precipitation: Maximum  | ------------  |  ------------ |
-| Precipitation: Average  | ------------  |  ------------ |
+| Precipitation: Minimum (in)  | 0.0 |  0.0 |
+| Precipitation: Maximum (in)  | 4.43  |  6.4 |
+| Precipitation: Average (in)  | 0.14  |  0.22 |
 | Precipitation  | Content Cell  |  ------------ |
 
 ![Comparative Histograms](/TempPrecipOahuFit.png)
