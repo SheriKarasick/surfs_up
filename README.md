@@ -2,15 +2,15 @@
 ![Logo](wavy.png)
 
 ## Summary
-We seek to set up a surf and shake shop on the island of Oahu, Hawaii.  In order to do this, we need to augment our business plan with quantitative and qualitative data about weather that will help them determine where to locate the business in Oahu, and other factors we may want to consider to ensure the businesses success. This will update the business plan to accomodate for previous failure that W.Avy has seen in similar ventures on the island and will get him more excited to be on board with investing in the business plan.
+We seek to estabilsh a new business venture in Oahu, HI.  A surf and shake shop that will provide high quality surf equipment for sale and rental.  In order to do this, we need to augment our business plan with quantitative and qualitative data about weather and business climate that will help determine where on the island to build the business, and other product lines or opportunities to ensure the businesses' success in all weather types. This data will be used to update the business plan to accomodate for lessons learned by a key investor, W.Avy, that has launched similar ventures on the island. 
 
 ## Findings
-With a surf shop, location, location, location is critical to ensuring the success of the business. Oahu is a small island, but with its rugged volcanic terrain, and Pacific location there are many physical structures that influence how wind passes over the island, where wind and how strong wind will come ashore, and when the rainy season will slow business to a virtual halt.  Given this knowledge coming into the analysis: an understanding of the island topography that is bolstered by 1) temperature data 2) precipitation data and 3) wave data will strengthen the proposal to ensure success.
+With a surf shop, it is all about "location, location, location". Oahu is a small island, but with its rugged volcanic terrain, and central Pacific location there are many physical structures that influence how wind passes over the island, where wind will generate waves and what patterns of precipitation to expect from land/ocean/atmosphere interactions.  The temperature is moderate year round with only small variability from month to month. The Hawaiian island chains are subject to microclimates due to the aforementioned influences, so rain data can be highly variable from one location to another. Given this knowledge coming into the analysis: an understanding of the island topography that is bolstered by 1) temperature data 2) precipitation data and 3) wind data will strengthen the proposal and subsequent business venture.
 
 ### Analysis
 
 ###### Air temperature and precipitation
-On the island of Oahu, there are 9 active monitoring stations that continuously gather data about air temperature and precipitation.  Let's begin our analysis by looking at how those variables vary throughout the year.
+On the island of Oahu, there are many active weather monitoring stations that record consistent, real time data.  For this analysis, nine of those stations were identified at random locations around the island.  The months of June and December were analyzed in depth to see if there was notable seasonal variability between these two months.
 
 | Variable  | June | December
 | ------------- | ------------- | ----------- |
