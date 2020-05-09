@@ -1,4 +1,5 @@
 # surfs_up
+![Logo](wavy.png)
 
 ## Summary
 We seek to set up a surf and shake shop on the island of Oahu, Hawaii.  In order to do this, we need to augment our business plan with quantitative and qualitative data about weather that will help them determine where to locate the business in Oahu, and other factors we may want to consider to ensure the businesses success. This will update the business plan to accomodate for previous failure that W.Avy has seen in similar ventures on the island and will get him more excited to be on board with investing in the business plan.
@@ -35,6 +36,7 @@ Surface waves require three key ingredients to build into the kinds of waves tha
 Oahu lies in the 0 to 30 latitude range which is subject to strong tradewinds through the year (easterlies).  This means the East side of the island will enjoy strong winds that have had a significant unimpeded fetch on a year round basis.  Headlands are areas where wind forces converge, and there are four notable headlands where a surf and shake shop would be juxtapositioned to better wind conditions which will support the surf side of the business robustly.
 
 The Pacific Station of the International Ocean Observing System maintains real-time data about wind velocity for the Island of Oahu.
+![Sample wind vector images](samplewinds2.png)
 
 ###### Advisories
 * Hawaii, like other areas of the world near water has a season where major storms are more predictable and regular.  During the months of Octtober through March (inclusive), major storm events occur regularly.  These storm systems bring strong winds, but also significant, torrential rain.  These storms generally coincide with the passing of a cold front through the area or a low pressure system. 
