@@ -22,6 +22,8 @@ On the island of Oahu, there are 9 active monitoring stations that continuously 
 | Precipitation: Average  | ------------  |  ------------ |
 | Precipitation  | Content Cell  |  ------------ |
 
+![Comparative Histograms](/TempPrecipOahuFit.png)
+
 
 ###### Island topography
 The Hawaiian Islands are characterized by seven types of geographic areas which significantly influence their climate. The result is great hyperlocal climatic variation, an important variable to note in planning.  Behind this climatic differential is 1) whether or not the area of the island is windward (subjected to direct wind) or leeward (buffered by wind by natural terrain.  In Oahu, the East side of the Island is windward, the West is leeward.  Between these two sides, terrain can be mountainous and tall or lowland depending on how the island was formed.  Oahu is noted for its interior lowlands and are subject to intense local aftermnoon showes with cloud formations associated with localized heating of terrestrial areas during the daytime.
@@ -39,6 +41,8 @@ The Pacific Station of the International Ocean Observing System maintains real-t
 
 ## Recommendations for future research
 
---
+* This station data represents nine different station on one island which is subject to high variability in micro-climates across the island. While an analysis that examines all data across a time period for the island is interesting, the island itself is subject to great variability from station to station.  I would suggest using the wind data to determine two or three sites on Oahu that have sufficient wind to warrant a surf shop then perform a meta-analysis on the weather conditions for those stations in particular.
+* The months of June and December were selected for this analysis, however wind data across a twelve month period shows that wind patterns vary greatly across the islands depending on the trade winds.  As two or three locations that appear more likely emerge, I would recommend evaluating wind patterns through the year so that slow seasons for surfing could be identified and alternative activities that are not wind dependent could be offered to potential customers (paddle boarding, kayaking, etc).
+* With two or three sites in mind, I would examine the availability of transportation from major airports as a variable in location of the surf shop.  While winds might be optimal on some windward headlands, travel time from Honolulu airport to the surf shop may limit the number of travelers who will access the beach and utilize the services.  Tourist visitor data from hotels or local businesses could significantly augment the analysis.
 
 ## 
