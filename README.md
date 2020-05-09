@@ -43,6 +43,11 @@ The Pacific Station of the International Ocean Observing System maintains real-t
 
 ![Sample wind vector images](samplewinds2.png)
 
+###### Visitor Traffic
+Important to note in the business plan is the volume of visitor traffic by month through the year. A surfing business caters to a very specific audience who may not follow this particular seasonal pattern. It is good to note that visitor traffic is an important variable but other variables are equally as important when attracting a niche audience.
+
+![Visitor Traffic](OahuVisitorSeasons.png)
+
 ###### Advisories
 * Hawaii, like other areas of the world near water has a season where major storms are more predictable and regular (1).  During the months of October through March (inclusive), major storm events occur regularly.  These storm systems bring strong winds, but also significant, torrential rain.  These storms generally coincide with the passing of a cold front through the area or a low pressure system. 
 * Regular land and sea circulation patterns that result from heating of land during the day leading to convection currents that drive wind and rain patterns are a regular part of coastal living.  These pockets of air exchange can be very localized based on the characteristics of topography in the area.  On the island of Oahu, the Ewa-Waianae Coast is an area where these diurnal patterns are quite regular bringing a sea breeze on shore in the afternoons (1). These patterns are associated with erratic patterns of weather bringing in rain, loocal storms, and winds reliably.
@@ -60,4 +65,5 @@ The Pacific Station of the International Ocean Observing System maintains real-t
 
 ## References
 (1) The Western Regional Climate Center. **Climate of Hawaii**. Retrieved from https://wrcc.dri.edu/narratives/HAWAII.htm <br />
-(2) The Pacific International Ocean Observing System Dataset.  Retrieved from https://www.pacioos.hawaii.edu/weather/model-wind-hawaii/
+(2) The Pacific International Ocean Observing System Dataset.  Retrieved from https://www.pacioos.hawaii.edu/weather/model-wind-hawaii/ <br />
+(3) Hawaiian Tourism Authority.  2017 Visitor Data by Month. Retrieved from https://www.hawaiitourismauthority.org/research/monthly-visitor-statistics/?year=2017.
