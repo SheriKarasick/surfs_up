@@ -1,4 +1,4 @@
-# surfs_up
+# Deploying Oceanographic Data Be Used in Effective Business Decisionmaking
 ![Logo](wavy.png)
 
 ## Summary
